@@ -1,6 +1,6 @@
 ## BOOK-E-SELL-BACKEND
 
-Backend of BOOK-E-SELL intership project at TATVASOFT
+Backend of BOOK-E-SELL internship project at TATVASOFT
 
 ### Project In
 
